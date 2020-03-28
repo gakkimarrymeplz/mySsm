@@ -1,0 +1,8 @@
+com\zmh\ssm\dao\IPermissionDao.class
+com\zmh\ssm\dao\ISysLogDao.class
+com\zmh\ssm\dao\IUserDao.class
+com\zmh\ssm\dao\IRoleDao.class
+com\zmh\ssm\dao\IProductDao.class
+com\zmh\ssm\dao\IOrdersDao.class
+com\zmh\ssm\dao\IMemberDao.class
+com\zmh\ssm\dao\ITravellerDao.class

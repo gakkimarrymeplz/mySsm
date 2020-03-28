@@ -1,0 +1,8 @@
+com\zmh\ssm\domain\UserInfo.class
+com\zmh\ssm\domain\Orders.class
+com\zmh\ssm\domain\Product.class
+com\zmh\ssm\domain\Permission.class
+com\zmh\ssm\domain\Traveller.class
+com\zmh\ssm\domain\Member.class
+com\zmh\ssm\domain\Role.class
+com\zmh\ssm\domain\SysLog.class
